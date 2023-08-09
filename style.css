@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+div{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 0px 15px 0px 15px;
+}
+
+a{
+    font-size: 35px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
